@@ -1,1 +1,2 @@
-# Define the variable board below.
+board = Array
+row = "1", "2", "3"
